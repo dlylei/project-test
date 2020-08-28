@@ -17,4 +17,4 @@ preview:
     pullPolicy: IfNotPresent
     repository: null
     tag: null
-  namespace: perv-ns
+  namespace: jx-previews
