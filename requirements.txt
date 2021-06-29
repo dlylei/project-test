@@ -1,1 +1,6 @@
 #Fill in dependencies here
+Flask==1.0.*
+Werkzeug==0.14.1
+itsdangerous==1.1.0
+flask_cors==3.0.7
+PyJWT == 1.7.1
