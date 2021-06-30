@@ -2,7 +2,7 @@
 Flask==1.0.*
 Werkzeug==0.14.1
 itsdangerous==1.1.0
-flask_cors==3.0.7
+flask_cors==3.0.9
 cryptography==2.8
 tncm_orchestration==1.1.*
 nicc-logging==1.5.*
