@@ -6,7 +6,7 @@ flask_cors==3.0.7
 cryptography==2.8
 tncm_orchestration==1.1.*
 nicc-logging==1.5.*
-PyJWT == 1.7.1
+PyJWT == 2.4.0
 nicc-auth==5.1.*
 cloudant-service==1.1.*
 config-helpers==1.2.*
